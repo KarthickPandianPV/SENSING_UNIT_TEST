@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/karthick/Documents/PlatformIO/Projects/MPU_test/devel -DCMAKE_INSTALL_PREFIX=/home/karthick/Documents/PlatformIO/Projects/MPU_test/install -G Unix Makefiles
